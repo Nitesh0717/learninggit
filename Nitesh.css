@@ -1,0 +1,7 @@
+h1{
+    background-color: rebeccapurple;
+}
+p::first-line{
+    background-color: bisque;
+    font-size: 77px;
+}
